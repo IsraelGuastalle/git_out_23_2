@@ -8,6 +8,7 @@ def create_dataframe_section(df):
     st.title("Database Section")
 
     col_1, col_2 = st.columns(2)
+    
 
     col_1.header("Database")
     col_1.dataframe(df, height=530)
