@@ -57,6 +57,7 @@ def rd1_question_14(df):
         y="selling_price",
         labels={"km_driven": "Kilometers", "selling_price": "Selling Price"},
     )
+    
 
     st.plotly_chart(fig, use_container_width=True)
 
