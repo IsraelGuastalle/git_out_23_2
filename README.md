@@ -1,2 +1,2 @@
-# Curso de Git
-Este repositório foi criado para hospedar o esqueleto do projeto que será utilizado para explicar e ensinar o uso básico do Git dentro da Comunidade DS
+Projeto Publicado: 
+https://gitout232-xxtnxha4hbqbcd4aiar4hx.streamlit.app/
